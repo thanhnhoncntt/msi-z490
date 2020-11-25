@@ -1,5 +1,4 @@
-# MSI-MAG-Z490-TOMAHAWK-i7-10700-OpenCore-
-
+# MPG Z490 GAMING PLUS i5 10400 OPENCORE 0.6.3
 Hello,
 
 I have successfully installed MacOS on my i5 10400 non K on MPG Z490 GAMING PLUS.
@@ -23,7 +22,7 @@ I have successfully installed MacOS on my i5 10400 non K on MPG Z490 GAMING PLUS
 
 # Working
 
-- [x] **Tested with macOS Big Sur Beta 11.0.1**
+- [x] **Tested with macOS Big Sur 11.0.1**
 - [x] **Audio** Realtek ALC1200-VD1 (AppleALC.kext, layout-id=11)
 - [x] **iGPU UHD630 Headless mode**
 - [x] **RX 580 works OOB no kext used**
